@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,date,quantity,total_amount,city
+101,1,P001,2025-01-10,2,1200,Delhi
+102,2,P002,2025-01-12,1,800,Mumbai
+103,3,P003,2025-02-05,3,1800,Bangalore
+104,1,P002,2025-02-10,1,800,Delhi
+105,4,P001,2025-03-01,2,1200,Hyderabad
+106,2,P003,2025-03-03,2,1200,Mumbai

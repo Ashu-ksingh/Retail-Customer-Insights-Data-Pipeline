@@ -1,0 +1,5 @@
+[
+  {"product_id": "P001", "category": "Electronics", "subcategory": "Headphones", "price": 600},
+  {"product_id": "P002", "category": "Home", "subcategory": "Cookware", "price": 800},
+  {"product_id": "P003", "category": "Electronics", "subcategory": "Speakers", "price": 900}
+]
